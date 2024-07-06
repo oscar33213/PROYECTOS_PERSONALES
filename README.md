@@ -36,8 +36,8 @@
 - **Descripción:** Aplicacion de Alexa Amazon para buscar por voz.
 - **Tecnologías usadas:** Python.
 
-### 8. Traductor Español - Ingles
-- **Descripción:** Aplicacion de traduccion de Español a Ingles.
+### 8. Traductor
+- **Descripción:** Aplicacion de traduccion.
 - **Tecnologías usadas:** Python.
 
 ### 9. Malware Gusano
