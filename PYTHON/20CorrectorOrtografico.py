@@ -1,16 +1,17 @@
 from autocorrect import Speller
 
-
 spell = Speller(lang='es')
 
 def corregir_palabra(word):
-    
-    if not spell(word) == word:
-        return spell(word)
-    else:
-        return word
-    
+    corregida = spell(word)
+    return corregida if corregida != word else word
 
-palabra = input("Indica la palabra o frase: ")    
+def corregir_frase(frase):
+    palabras = frase.split()
+    palabras_corregidas = [corregir_palabra(palabra) for palabra in palabras]
+    frase_corregida = ' '.join(palabras_corregidas)
+    return frase_corregida
 
-print(corregir_palabra(palabra))
+frase = input("Indica la palabra o frase: ")    
+print(corregir_frase(frase))
+
