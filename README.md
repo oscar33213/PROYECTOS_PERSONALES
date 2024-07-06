@@ -13,27 +13,30 @@
 - **Descripción:** Aplicacion para calcular el area de un circulo indicando su radio.
 - **Tecnologías usadas:** Python & tkinter.
 
-### 3. Calculadora IMC
+### 3. Cadena De Numeros
+- **Descripción:** Aplicacion que recibe una serie de numeros positivos, al recibir un valor negativo suma los anteriores positivos y saca el resultado.
+- **Tecnologías usadas:** Python.
+
+### 4. Calculadora IMC
 - **Descripción:** Aplicacion para calcular el IMC (Indice de Masa Corporal).
 - **Tecnologías usadas:** Python & tkinter.
 
 
-### 4. Cadena De Numeros
-- **Descripción:** Aplicacion que recibe una serie de numeros positivos, al recibir un valor negativo suma los anteriores positivos y saca el resultado.
-- **Tecnologías usadas:** Python.
 
-### 5. Reloj
+
+### 5. Generador QR
+- **Descripción:** Aplicacion para generar QR (en mantenimiento)
+- **Tecnologías usadas:** Python & streamlit.
+
+### 6. Reloj
 - **Descripción:** Aplicacion que muestra la hora cada segundo.
 - **Tecnologías usadas:** Python.
 
 
-### 6. Generador QR
-- **Descripción:** Aplicacion para generar QR (en mantenimiento)
-- **Tecnologías usadas:** Python & streamlit.
-
 ## Estructura del Repositorio
 
 - `README.md`: Este archivo, con la descripción general del repositorio y enlaces a los proyectos individuales.
+- `PYTHON`: Directorio que contiene todos los proyectos en Python
 
 ## Cómo Usar Este Repositorio
 
