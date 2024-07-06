@@ -36,7 +36,7 @@
 ## Estructura del Repositorio
 
 - `README.md`: Este archivo, con la descripción general del repositorio y enlaces a los proyectos individuales.
-- `PYTHON`: Directorio que contiene todos los proyectos en Python
+- `/PYTHON`: Directorio que contiene todos los proyectos en Python
 
 ## Cómo Usar Este Repositorio
 
