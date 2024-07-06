@@ -92,6 +92,10 @@
 - **Descripción:** Programa autocorrector de frases.
 - **Tecnologías usadas:** Python.
 
+### 21. Calculadora
+- **Descripción:** Programa de Calculadora.
+- **Tecnologías usadas:** Python.
+
 
 ## Estructura del Repositorio
 
