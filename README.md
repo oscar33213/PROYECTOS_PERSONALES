@@ -85,5 +85,5 @@
 ## Copyright
 
 
-© 2024 Oscar Hidalgo Llopez. Todos los derechos reservados.
+© 2024 Oscar Hidalgo Llopez (github.com/oscar33213). Todos los derechos reservados.
    
