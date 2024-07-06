@@ -32,6 +32,44 @@
 - **Descripción:** Aplicacion que muestra la hora cada segundo.
 - **Tecnologías usadas:** Python.
 
+### 7. Asistente de voz de Amazon
+- **Descripción:** Aplicacion de Alexa Amazon para buscar por voz.
+- **Tecnologías usadas:** Python.
+
+### 8. Traductor Español - Ingles
+- **Descripción:** Aplicacion de traduccion de Español a Ingles.
+- **Tecnologías usadas:** Python.
+
+### 9. Malware Gusano
+- **Descripción:** Pequeño scrip de gusano para replicar archivos.
+- **Tecnologías usadas:** Python.
+
+### 10. Keylogger
+- **Descripción:** Aplicacion Keylogger para detectar pulsaciones del teclado.
+- **Tecnologías usadas:** Python.
+
+### 11. Despertador
+- **Descripción:** Aplicacion de despertador.
+- **Tecnologías usadas:** Python.
+
+### 12. Reconocimiento de Voz
+- **Descripción:** Aplicacion de reconocimiento de voz.
+- **Tecnologías usadas:** Python.
+
+
+### 13. Shutdown
+- **Descripción:** Aplicacion para apagar el ordenador.
+- **Tecnologías usadas:** Python.
+
+
+### 14. Ventana de Login
+- **Descripción:** Aplicacion para simular una pantalla de logeo.
+- **Tecnologías usadas:** Python & Tkinter.
+
+### 15. Generador de Contraseñas
+- **Descripción:** Aplicacion para generar Contraseñas indicando sus parametros.
+- **Tecnologías usadas:** Python.
+
 
 ## Estructura del Repositorio
 
