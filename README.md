@@ -94,7 +94,7 @@
 
 ### 21. Calculadora
 - **Descripción:** Programa de Calculadora.
-- **Tecnologías usadas:** Python.
+- **Tecnologías usadas:** Python & Tkinter.
 
 
 ## Estructura del Repositorio
