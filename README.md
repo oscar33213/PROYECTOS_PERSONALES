@@ -71,6 +71,28 @@
 - **Tecnologías usadas:** Python.
 
 
+### 16. Quiz de Paises
+- **Descripción:** Juego de adivinar las capitales de paises.
+- **Tecnologías usadas:** Python.
+
+
+### 17. Bot Ratón Automático
+- **Descripción:** Programa que simula un bot de puntero automatico.
+- **Tecnologías usadas:** Python.
+
+### 18. Analizador de Sentimientos
+- **Descripción:** Programa que recibe una frase y la analiza para determinar su nivel de sentimiento..
+- **Tecnologías usadas:** Python.
+
+### 19. Generador de Audiolibros
+- **Descripción:** Programa que transforma textos en Audiolibros.
+- **Tecnologías usadas:** Python.
+
+### 20. Autocorrector
+- **Descripción:** Programa autocorrector de frases.
+- **Tecnologías usadas:** Python.
+
+
 ## Estructura del Repositorio
 
 - `README.md`: Este archivo, con la descripción general del repositorio y enlaces a los proyectos individuales.
