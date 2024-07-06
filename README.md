@@ -82,15 +82,8 @@
    ```bash
 
    git@github.com:oscar33213/PROYECTOS_PYTHON_PERSONALES.git
-
-
-
-
-
-
 ## Copyright
 
-** 
 
 © 2024 Oscar Hidalgo Llopez. Todos los derechos reservados.
    
