@@ -3,11 +3,11 @@ import streamlit as st
 from PIL import Image
 
 # Directorio y nombre del archivo QR
-filename = "qr_code.png"
+filename = "qr/qr_code.png"
 
 # Función para generar el código QR
 def generar_qr(url, filename):
-    qr = qrcode.qrcode(
+    qr = qrcode.QRCode(
         version=1,
         error_correction=qrcode.constants.ERROR_CORRECT_L,
         box_size=10,
