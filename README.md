@@ -151,7 +151,7 @@
 ### 27. Juego del Ahorcado
 - **Descripción:** Juego del Ahorcado.
 - **Tecnologías usadas:** Python.
-- **Enlace al repositorio:** 
+- **Enlace al repositorio:** [Ahoraco](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/3961dad9e5d838669af8f48ed2679f52cfe4085f/PYTHON/27Ahorcado.py)
 
 
 
