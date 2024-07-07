@@ -25,7 +25,7 @@
 
 
 ### 5. Generador QR
-- **Descripción:** Aplicacion para generar QR (en mantenimiento)
+- **Descripción:** Aplicacion para generar QR
 - **Tecnologías usadas:** Python & streamlit.
 
 ### 6. Reloj
@@ -111,12 +111,25 @@
 - **Tecnologías usadas:** Python.
 
 
+### 25. WiFi Password Decrypted
+- **Descripción:** Programa para recuperar contarseñas WiFi.
+- **Tecnologías usadas:** Python.
+
+
+### 26. Eliminador de Fondos
+- **Descripción:** Programa que elimina fondos de una imagen.
+- **Tecnologías usadas:** Python.
+
+
 
 
 ## Estructura del Repositorio
 
 - `README.md`: Este archivo, con la descripción general del repositorio y enlaces a los proyectos individuales.
 - `/PYTHON`: Directorio que contiene todos los proyectos en Python
+- `/PYTHON/imagenes`: Directorio que contiene todas las imagenes
+- `/PYTHON/pdfs`: Directorio que contiene los pdfs que se generan al unirlos
+- `/PYTHON/qr`: Directorio que contiene los QR generados
 
 ## Cómo Usar Este Repositorio
 
