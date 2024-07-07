@@ -22,5 +22,7 @@ try:
 except subprocess.CalledProcessError:
     print(f'No se pudo obtener la información de la red {perfil_red}')
     
-    
+ 
+ 
+input('Presione cualquier tecla para salir')
     
