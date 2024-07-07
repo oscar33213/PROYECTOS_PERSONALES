@@ -29,5 +29,7 @@ miframe.pack(pady=20)
 date_label = tk.Label(miframe, text="Fecha seleccionada: Ninguna")
 date_label.pack()
 
+input('Presiona uuna tecla para salir')
+
 root.mainloop()
 

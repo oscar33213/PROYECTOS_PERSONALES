@@ -10,3 +10,4 @@ pywhatkit.sendwhatmsg('+34xxxxxx', 'Hola', date.hour, date.minute)
 time.sleep(5)
 
 
+input('Presiona uuna tecla para salir')

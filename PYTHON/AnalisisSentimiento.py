@@ -30,3 +30,7 @@ def main():
 # Ejecutar el programa principal
 if __name__ == "__main__":
     main()
+
+
+
+input('Presiona uuna tecla para salir')

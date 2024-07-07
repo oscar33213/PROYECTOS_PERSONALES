@@ -30,3 +30,6 @@ if 'amazon' in talk():
     
     if text:
         webbrowser.open(f'https://www.amazon.es/s?k={text}')
+
+
+input('Presiona uuna tecla para salir')

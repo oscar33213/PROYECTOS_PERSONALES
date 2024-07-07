@@ -44,3 +44,5 @@ botonCalcular.grid(row=2, columnspan=2)
 # Run the main loop
 raiz.mainloop()
 
+
+input('Presiona uuna tecla para salir')

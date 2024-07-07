@@ -22,3 +22,6 @@ while run:
     if vidas == 0:
         run = False
         print(f'Has perdido, te quedan 0 vidas. El número era: {numeroAAdivinar}')
+
+
+input('Presiona uuna tecla para salir')

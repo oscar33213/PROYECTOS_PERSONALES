@@ -50,3 +50,6 @@ while run:
 
 if not run:
     print(f'Correct word! It was {word}')
+    
+    
+    input('Presiona uuna tecla para salir')

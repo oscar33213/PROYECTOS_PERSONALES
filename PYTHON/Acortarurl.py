@@ -21,3 +21,5 @@ if st.button("Generate Short URL"):
     else:
         st.warning("Please enter a URL")
 
+input('Presiona uuna tecla para salir')
+

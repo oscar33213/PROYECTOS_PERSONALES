@@ -6,3 +6,6 @@ file.close()
 
 audio =gTTS(text=textBook, lang='es')
 audio.save('audioBook.mp3')
+
+
+input('Presiona uuna tecla para salir')
