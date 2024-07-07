@@ -1,5 +1,4 @@
 import random
-
 vidas = 5
 numeroAAdivinar = random.randint(0, 100)
 
