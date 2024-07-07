@@ -96,13 +96,18 @@
 - **Descripción:** Programa de Calculadora.
 - **Tecnologías usadas:** Python & Tkinter.
 
-### 21. Fusionar PDF
+### 22. Fusionar PDF
 - **Descripción:** Programa para unir varios PDFs en uno.
 - **Tecnologías usadas:** Python & Streamlit.
 
 
-### 22. Web Scrapping
+### 23. Web Scrapping
 - **Descripción:** Programa para hacer un web scrapping de una paguna web que le pasemos.
+- **Tecnologías usadas:** Python.
+
+
+### 24. Bot WhatsApp
+- **Descripción:** Bot para enviar Mensajes de WatsApp.
 - **Tecnologías usadas:** Python.
 
 
