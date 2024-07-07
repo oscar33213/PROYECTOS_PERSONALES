@@ -94,7 +94,7 @@
  [],
  False,
  False,
- 1720380184,
+ 1720380752,
  [('run.exe',
    'C:\\Users\\oshil\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')],
