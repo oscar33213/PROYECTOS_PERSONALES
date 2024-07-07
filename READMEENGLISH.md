@@ -139,6 +139,26 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 - **Technologies used:** Python.
 - **Link to the repository:** [Hangman Game](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/3961dad9e5d838669af8f48ed2679f52cfe4085f/PYTHON/27Ahorcado.py)
 
+### 28. Fizz-Buzz
+- **Description:** Fizz-Buzz game, replace multiples of 3 with Fizz, multiples of 5 with Buzz, and multiples of both 3 and 5 with Fizz-Buzz.
+- **Technologies used:** Python.
+- **Repository link:**
+
+### 29. Guess the Number
+- **Description:** Guess the Number game.
+- **Technologies used:** Python.
+- **Repository link:**
+
+### 30. Interactive Calendar
+- **Description:** Interactive Calendar game.
+- **Technologies used:** Python and Tkinter.
+- **Repository link:**
+
+### 31. System Performance Monitor
+- **Description:** Application to monitor system performance.
+- **Technologies used:** Python and Tkinter.
+- **Repository link:**
+
 ## Repository Structure
 
 - `README.md`: This file, containing the general description of the repository and links to individual projects.
