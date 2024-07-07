@@ -1,0 +1,2 @@
+- SITUARNOS EN LA CARPETA DONDE ESTE EL .py
+- pyistaller --onefile nombreprograma.py
