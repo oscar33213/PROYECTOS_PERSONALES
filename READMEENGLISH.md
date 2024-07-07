@@ -142,22 +142,22 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 ### 28. Fizz-Buzz
 - **Description:** Fizz-Buzz game, replace multiples of 3 with Fizz, multiples of 5 with Buzz, and multiples of both 3 and 5 with Fizz-Buzz.
 - **Technologies used:** Python.
-- **Repository link:**
+- **Repository link:** [Fizz-Buzz Game](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/8dff95d545634363de9917518ca9d731d690a92b/PYTHON/28fizzbuzz.py)
 
 ### 29. Guess the Number
 - **Description:** Guess the Number game.
 - **Technologies used:** Python.
-- **Repository link:**
+- **Repository link:** [Guess the Number Gsme](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/8dff95d545634363de9917518ca9d731d690a92b/PYTHON/29adivinanumero.py)
 
 ### 30. Interactive Calendar
 - **Description:** Interactive Calendar game.
 - **Technologies used:** Python and Tkinter.
-- **Repository link:**
+- **Repository link:** [interactive Calendar](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/8dff95d545634363de9917518ca9d731d690a92b/PYTHON/30Calendario.py)
 
 ### 31. System Performance Monitor
 - **Description:** Application to monitor system performance.
-- **Technologies used:** Python and Tkinter.
-- **Repository link:**
+- **Technologies used:** Python.
+- **Repository link:** [System Performance Monitor](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/8dff95d545634363de9917518ca9d731d690a92b/PYTHON/31ControlRendimiento.py)
 
 ## Repository Structure
 

@@ -156,22 +156,22 @@
 ### 28. Fizz-Buzz
 - **Descripción:** Juego de Fizz-Buzz, cambia los multiplos de 3 por Fizz, los de 5 por Buzz y los de 3 y 5 por Fizz-Buzz.
 - **Tecnologías usadas:** Python.
-- **Enlace al repositorio:**
+- **Enlace al repositorio:** [Fizz-Buzz](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/8dff95d545634363de9917518ca9d731d690a92b/PYTHON/28fizzbuzz.py)
 
 ### 29. Adivina el numero
 - **Descripción:** Juego de Adivinar el numero.
 - **Tecnologías usadas:** Python.
-- **Enlace al repositorio:**
+- **Enlace al repositorio:** [Juego de Adivinar El Numero](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/8dff95d545634363de9917518ca9d731d690a92b/PYTHON/29adivinanumero.py)
 
 ### 30. Calendario Interactivo
 - **Descripción:** Juego de Adivinar el numero.
 - **Tecnologías usadas:** Python y Tkinter.
-- **Enlace al repositorio:**
+- **Enlace al repositorio:** [Calendario Interactivo](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/8dff95d545634363de9917518ca9d731d690a92b/PYTHON/30Calendario.py)
 
 ### 31. Control Del Rendimiento Del Sistema
 - **Descripción:** Aplicación para controlar el rendimiento del Sistema.
-- **Tecnologías usadas:** Python y Tkinter.
-- **Enlace al repositorio:**
+- **Tecnologías usadas:** Python.
+- **Enlace al repositorio:** [Control de Rendimiento](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/8dff95d545634363de9917518ca9d731d690a92b/PYTHON/31ControlRendimiento.py)
 
 
 
