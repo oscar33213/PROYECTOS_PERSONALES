@@ -117,9 +117,7 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 ### 23. Web Scraping
 - **Description:** A program to perform web scraping on a given website.
 - **Technologies used:** Python.
-- **Repository link:** [Web
-
- Scraping](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/142ffd43ffa7c7136baca82030ce11a98ef2929e/PYTHON/23webScrapping.py)
+- **Repository link:** [Web Scraping](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/142ffd43ffa7c7136baca82030ce11a98ef2929e/PYTHON/23webScrapping.py)
 
 ### 24. WhatsApp Bot
 - **Description:** A bot to send WhatsApp messages.
