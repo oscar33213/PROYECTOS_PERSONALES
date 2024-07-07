@@ -153,6 +153,26 @@
 - **Tecnologías usadas:** Python.
 - **Enlace al repositorio:** [Ahorcado](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/3961dad9e5d838669af8f48ed2679f52cfe4085f/PYTHON/27Ahorcado.py)
 
+### 28. Fizz-Buzz
+- **Descripción:** Juego de Fizz-Buzz, cambia los multiplos de 3 por Fizz, los de 5 por Buzz y los de 3 y 5 por Fizz-Buzz.
+- **Tecnologías usadas:** Python.
+- **Enlace al repositorio:**
+
+### 29. Adivina el numero
+- **Descripción:** Juego de Adivinar el numero.
+- **Tecnologías usadas:** Python.
+- **Enlace al repositorio:**
+
+### 30. Calendario Interactivo
+- **Descripción:** Juego de Adivinar el numero.
+- **Tecnologías usadas:** Python y Tkinter.
+- **Enlace al repositorio:**
+
+### 31. Control Del Rendimiento Del Sistema
+- **Descripción:** Aplicación para controlar el rendimiento del Sistema.
+- **Tecnologías usadas:** Python y Tkinter.
+- **Enlace al repositorio:**
+
 
 
 
