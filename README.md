@@ -148,6 +148,12 @@
 - **Enlace al repositorio:** [Eliminador de fondos](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/142ffd43ffa7c7136baca82030ce11a98ef2929e/PYTHON/26EliminarFondo.py)
 
 
+### 27. Juego del Ahorcado
+- **Descripción:** Juego del Ahorcado.
+- **Tecnologías usadas:** Python.
+- **Enlace al repositorio:** 
+
+
 
 
 ## Estructura del Repositorio

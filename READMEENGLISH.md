@@ -134,6 +134,11 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 - **Technologies used:** Python.
 - **Repository link:** [Background Remover](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/142ffd43ffa7c7136baca82030ce11a98ef2929e/PYTHON/26EliminarFondo.py)
 
+### 27. Hangman Game
+- **Description:** Hangman Game.
+- **Technologies used:** Python.
+- **Link to the repository:**
+
 ## Repository Structure
 
 - `README.md`: This file, containing the general description of the repository and links to individual projects.
