@@ -154,9 +154,9 @@
 
 - `README.md`: Este archivo, con la descripción general del repositorio y enlaces a los proyectos individuales.
 - `/PYTHON`: Directorio que contiene todos los proyectos en Python
-- `/PYTHON/imagenes`: Directorio que contiene todas las imagenes
-- `/PYTHON/pdfs`: Directorio que contiene los pdfs que se generan al unirlos
-- `/PYTHON/qr`: Directorio que contiene los QR generados
+-  `/PYTHON/imagenes`: Directorio que contiene todas las imagenes
+-  `/PYTHON/pdfs`: Directorio que contiene los pdfs que se generan al unirlos
+-  `/PYTHON/qr`: Directorio que contiene los QR generados
 
 ## Cómo Usar Este Repositorio
 
