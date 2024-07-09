@@ -188,6 +188,11 @@
 - **Tecnologías usadas:** Python.
 - **Enlace al repositorio:** [Carrera de Obstaculos](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/fa45944367712ec2d8f4f3514c9f00b246c4df01/PYTHON/Carrera_Obstaculos.py)
 
+### 35. Pokedex
+- **Descripción:** Aplicación que simula una Pokedex.
+- **Tecnologías usadas:** Python & flet
+- **Enlace al repositorio:**
+
 
 
 
