@@ -175,6 +175,11 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 - **Technologies Used:** Python.
 - **Repository Link:** [Obstacle Race](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/fa45944367712ec2d8f4f3514c9f00b246c4df01/PYTHON/Carrera_Obstaculos.py)
 
+### 35. Pokedex
+- **Description:** Application that simulates a Pokedex.
+- **Technologies used:** Python & flet
+- **Repository link:** [Pokedex](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/c7f16595b65b495eccbfb389f2b930e0d47f3eac/PYTHON/pokedex.py)
+
 ## Repository Structure
 
 - `README.md`: This file, containing the general description of the repository and links to individual projects.
