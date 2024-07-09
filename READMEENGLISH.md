@@ -159,6 +159,22 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 - **Technologies used:** Python.
 - **Repository link:** [System Performance Monitor](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/8dff95d545634363de9917518ca9d731d690a92b/PYTHON/31ControlRendimiento.py)
 
+
+### 32. Vending Machine
+- **Description:** Application that simulates a vending machine.
+- **Technologies Used:** Python.
+- **Repository Link:** [Vending Machine](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/fa45944367712ec2d8f4f3514c9f00b246c4df01/PYTHON/maquina_exprendedora.py)
+
+### 33. Asynchronous Sum
+- **Description:** Application that performs sums asynchronously.
+- **Technologies Used:** Python.
+- **Repository Link:** [Asynchronous Sum](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/fa45944367712ec2d8f4f3514c9f00b246c4df01/PYTHON/SumaCadenanumeros.py)
+
+### 34. Obstacle Race
+- **Description:** Application that simulates an obstacle race.
+- **Technologies Used:** Python.
+- **Repository Link:** [Obstacle Race](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/fa45944367712ec2d8f4f3514c9f00b246c4df01/PYTHON/Carrera_Obstaculos.py)
+
 ## Repository Structure
 
 - `README.md`: This file, containing the general description of the repository and links to individual projects.

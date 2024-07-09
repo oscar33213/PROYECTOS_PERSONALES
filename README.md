@@ -176,17 +176,17 @@
 ### 32. Maquina Exprendedora
 - **Descripción:** Aplicación que simula una maquina exprendedora.
 - **Tecnologías usadas:** Python.
-- **Enlace al repositorio:**
+- **Enlace al repositorio:** [Maquina Exprendedora](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/fa45944367712ec2d8f4f3514c9f00b246c4df01/PYTHON/maquina_exprendedora.py)
 
 ### 33. Suma Asincrona
 - **Descripción:** Aplicación que realiza sumas de forma asincrona.
 - **Tecnologías usadas:** Python.
-- **Enlace al repositorio:**
+- **Enlace al repositorio:** [Suma Asincrona](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/fa45944367712ec2d8f4f3514c9f00b246c4df01/PYTHON/SumaCadenanumeros.py)
 
 ### 34. Carrera de Obstaculos
 - **Descripción:** Aplicación que simula una carrera de Obstaculos.
 - **Tecnologías usadas:** Python.
-- **Enlace al repositorio:**
+- **Enlace al repositorio:** [Carrera de Obstaculos](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/fa45944367712ec2d8f4f3514c9f00b246c4df01/PYTHON/Carrera_Obstaculos.py)
 
 
 
