@@ -173,6 +173,21 @@
 - **Tecnologías usadas:** Python.
 - **Enlace al repositorio:** [Control de Rendimiento](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/8dff95d545634363de9917518ca9d731d690a92b/PYTHON/31ControlRendimiento.py)
 
+### 32. Maquina Exprendedora
+- **Descripción:** Aplicación que simula una maquina exprendedora.
+- **Tecnologías usadas:** Python.
+- **Enlace al repositorio:**
+
+### 33. Suma Asincrona
+- **Descripción:** Aplicación que realiza sumas de forma asincrona.
+- **Tecnologías usadas:** Python.
+- **Enlace al repositorio:**
+
+### 34. Carrera de Obstaculos
+- **Descripción:** Aplicación que simula una carrera de Obstaculos.
+- **Tecnologías usadas:** Python.
+- **Enlace al repositorio:**
+
 
 
 
