@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi repositorio de proyectos personales! Este repositorio actúa como un portafolio donde iré subiendo pequeños proyectos que desarrollo con el objetivo de mejorar mis habilidades y explorar nuevas tecnologías. Aquí podrás encontrar una variedad de proyectos, cada uno con su propia descripción, guía de instalación y uso.
 
-## Proyectos
+## Proyectos de Python
 
 ### 1. Acortar URL
 - **Descripción:** Web para acortar URLs.
@@ -193,10 +193,60 @@
 - **Tecnologías usadas:** Python & flet
 - **Enlace al repositorio:** [Pokedex](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/c7f16595b65b495eccbfb389f2b930e0d47f3eac/PYTHON/pokedex.py)
 
-### 36. Aplicación de turnos
+### Proyectos de JavaScript
+
+
+### 1. Aplicación de turnos
 - **Descripción:** Aplicación que simula una pantalla de llamamiento de turnos de atención al cliente.
 - **Tecnologías usadas:** HTML5, Typescript y CSS
 - **Enlace al repositorio:**  [Aplicación Turnos](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/b9968044db19d31ab3ad6f6c117e4b5fd0c5c619/JS-TS/APILCACI%C3%93N_TURNOS-TS/src/main.ts)
+
+### Proyectos de Java
+
+### 1. Aplicación Año Bisiesto
+- **Descripción:** Aplicación que indica si un año es bisiesto o no.
+- **Tecnologías usadas:** Java
+- **Enlace al repositorio:**
+
+### 2. Calculadora de FÚtbol
+- **Descripción:** Aplicación que calcula las posiciones de X equipos segun los resultados que se le indique.
+- **Tecnologías usadas:** Java
+- **Enlace al repositorio:** 
+
+### 3. Capicua
+- **Descripción:** Aplicación que indica si un numero indicado es capicua o no.
+- **Tecnologías usadas:** Java
+- **Enlace al repositorio:** 
+
+### 4 Conversor De Divisas
+- **Descripción:** Aplicación conversor de divisias, donde se le indica el tipo de divisa a convertir.
+- **Tecnologías usadas:** Java
+- **Enlace al repositorio:** 
+
+### 5. Generador de Matriculas
+- **Descripción:** Aplicación que sirve para generar matriculas de vehiculos españoles.
+- **Tecnologías usadas:** Java
+- **Enlace al repositorio:** 
+
+### 6. Juego Dungeons & Dragons
+- **Descripción:** Aplicación que simula el tipico juego de Dungeons & Dragons
+- **Tecnologías usadas:** Java
+- **Enlace al repositorio:** 
+
+### 7. Leer Al Revés
+- **Descripción:** Aplicación que muestra la palabra indicada, al reves.
+- **Tecnologías usadas:** Java
+- **Enlace al repositorio:** 
+
+### 8. Operaciones Matemáticas
+- **Descripción:** Aplicación que muestra el resultado de la operación amtematica que se le indique.
+- **Tecnologías usadas:** Java
+- **Enlace al repositorio:** 
+
+### 9. Palindrome
+- **Descripción:** Aplicación que indica si una palabra es palindrome.
+- **Tecnologías usadas:** Java
+- **Enlace al repositorio:** 
 
 
 
@@ -211,6 +261,7 @@
 -  `/PYTHON/pdfs`: Directorio que contiene los pdfs que se generan al unirlos
 -  `/PYTHON/qr`: Directorio que contiene los QR generados
 - `/JS-TS`: Directorio que contiene todos los proyectos de JavaScript y TypeScript
+- `/JAVA`: Directorio que contiene todos los proyectos en Java
 
 ## Cómo Usar Este Repositorio
 
