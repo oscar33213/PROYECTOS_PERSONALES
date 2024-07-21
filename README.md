@@ -193,6 +193,12 @@
 - **Tecnologías usadas:** Python & flet
 - **Enlace al repositorio:** [Pokedex](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/c7f16595b65b495eccbfb389f2b930e0d47f3eac/PYTHON/pokedex.py)
 
+### 36. Aplicación de turnos
+- **Descripción:** Aplicación que simula una pantalla de llamamiento de turnos de atención al cliente.
+- **Tecnologías usadas:** HTML5, Typescript y CSS
+- **Enlace al repositorio:** 
+
+
 
 
 
