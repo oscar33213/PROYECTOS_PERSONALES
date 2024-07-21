@@ -207,7 +207,7 @@
 - **Tecnologías usadas:** Java
 - **Enlace al repositorio:** [Bisiesto](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/A%C3%B1o_Bisiesto.java)
 
-### 2. Calculadora de FÚtbol
+### 2. Calculadora de Fútbol
 - **Descripción:** Aplicación que calcula las posiciones de X equipos segun los resultados que se le indique.
 - **Tecnologías usadas:** Java
 - **Enlace al repositorio:** [Calculadora LaLiga Fútbol](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/Calculadora_Futbol.java)
