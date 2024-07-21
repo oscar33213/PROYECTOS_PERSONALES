@@ -196,7 +196,7 @@
 ### 36. Aplicación de turnos
 - **Descripción:** Aplicación que simula una pantalla de llamamiento de turnos de atención al cliente.
 - **Tecnologías usadas:** HTML5, Typescript y CSS
-- **Enlace al repositorio:** 
+- **Enlace al repositorio:**  [Aplicación Turnos](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/b9968044db19d31ab3ad6f6c117e4b5fd0c5c619/JS-TS/APILCACI%C3%93N_TURNOS-TS/src/main.ts)
 
 
 

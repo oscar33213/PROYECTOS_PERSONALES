@@ -180,6 +180,11 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 - **Technologies used:** Python & flet
 - **Repository link:** [Pokedex](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/c7f16595b65b495eccbfb389f2b930e0d47f3eac/PYTHON/pokedex.py)
 
+### 36. Turn Management Application
+- **Description:** An application that simulates a screen for calling customer service turn numbers.
+- **Technologies used:** HTML5, TypeScript, and CSS
+- **Repository link:** [Turn Management Application](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/b9968044db19d31ab3ad6f6c117e4b5fd0c5c619/JS-TS/APILCACI%C3%93N_TURNOS-TS/src/main.ts)
+
 ## Repository Structure
 
 - `README.md`: This file, containing the general description of the repository and links to individual projects.
