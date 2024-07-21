@@ -147,7 +147,6 @@
 - **Tecnologías usadas:** Python.
 - **Enlace al repositorio:** [Eliminador de fondos](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/142ffd43ffa7c7136baca82030ce11a98ef2929e/PYTHON/26EliminarFondo.py)
 
-
 ### 27. Juego del Ahorcado
 - **Descripción:** Juego del Ahorcado.
 - **Tecnologías usadas:** Python.
@@ -206,47 +205,47 @@
 ### 1. Aplicación Año Bisiesto
 - **Descripción:** Aplicación que indica si un año es bisiesto o no.
 - **Tecnologías usadas:** Java
-- **Enlace al repositorio:**
+- **Enlace al repositorio:** [Bisiesto](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/A%C3%B1o_Bisiesto.java)
 
 ### 2. Calculadora de FÚtbol
 - **Descripción:** Aplicación que calcula las posiciones de X equipos segun los resultados que se le indique.
 - **Tecnologías usadas:** Java
-- **Enlace al repositorio:** 
+- **Enlace al repositorio:** [Calculadora LaLiga Fútbol](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/Calculadora_Futbol.java)
 
 ### 3. Capicua
 - **Descripción:** Aplicación que indica si un numero indicado es capicua o no.
 - **Tecnologías usadas:** Java
-- **Enlace al repositorio:** 
+- **Enlace al repositorio:** [Capicúa](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/Capicua.java)
 
 ### 4 Conversor De Divisas
 - **Descripción:** Aplicación conversor de divisias, donde se le indica el tipo de divisa a convertir.
 - **Tecnologías usadas:** Java
-- **Enlace al repositorio:** 
+- **Enlace al repositorio:** [Conversor Divisas](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/ConversorDivisas.java)
 
 ### 5. Generador de Matriculas
 - **Descripción:** Aplicación que sirve para generar matriculas de vehiculos españoles.
 - **Tecnologías usadas:** Java
-- **Enlace al repositorio:** 
+- **Enlace al repositorio:** [Generador Matriculas](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/GeneradorMatriculas.java)
 
 ### 6. Juego Dungeons & Dragons
 - **Descripción:** Aplicación que simula el tipico juego de Dungeons & Dragons
 - **Tecnologías usadas:** Java
-- **Enlace al repositorio:** 
+- **Enlace al repositorio:** [Dungeons & Dragons](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/JuegoDD.java)
 
 ### 7. Leer Al Revés
 - **Descripción:** Aplicación que muestra la palabra indicada, al reves.
 - **Tecnologías usadas:** Java
-- **Enlace al repositorio:** 
+- **Enlace al repositorio:** [Leer Al Réves](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/Leer_AlReves.java)
 
 ### 8. Operaciones Matemáticas
 - **Descripción:** Aplicación que muestra el resultado de la operación amtematica que se le indique.
 - **Tecnologías usadas:** Java
-- **Enlace al repositorio:** 
+- **Enlace al repositorio:** [Operaciones Matematicas](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/Operacionesmatematicas.java)
 
 ### 9. Palindrome
 - **Descripción:** Aplicación que indica si una palabra es palindrome.
 - **Tecnologías usadas:** Java
-- **Enlace al repositorio:** 
+- **Enlace al repositorio:** [Palindrome](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/PalabraPalindrome.java)
 
 
 

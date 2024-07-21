@@ -180,26 +180,77 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 - **Technologies used:** Python & flet
 - **Repository link:** [Pokedex](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/c7f16595b65b495eccbfb389f2b930e0d47f3eac/PYTHON/pokedex.py)
 
-### 36. Turn Management Application
-- **Description:** An application that simulates a screen for calling customer service turn numbers.
-- **Technologies used:** HTML5, TypeScript, and CSS
-- **Repository link:** [Turn Management Application](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/b9968044db19d31ab3ad6f6c117e4b5fd0c5c619/JS-TS/APILCACI%C3%93N_TURNOS-TS/src/main.ts)
+### JavaScript Projects
+
+#### 1. Queue Application
+- **Description:** Application that simulates a customer service queue display.
+- **Technologies used:** HTML5, Typescript, and CSS
+- **Repository link:** [Queue Application](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/b9968044db19d31ab3ad6f6c117e4b5fd0c5c619/JS-TS/APILCACI%C3%93N_TURNOS-TS/src/main.ts)
+
+### Java Projects
+
+#### 1. Leap Year Application
+- **Description:** Application that determines if a year is a leap year.
+- **Technologies used:** Java
+- **Repository link:** [Leap Year](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/A%C3%B1o_Bisiesto.java)
+
+#### 2. Football Calculator
+- **Description:** Application that calculates the standings of X teams based on provided results.
+- **Technologies used:** Java
+- **Repository link:** [LaLiga Football Calculator](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/Calculadora_Futbol.java)
+
+#### 3. Palindrome Checker
+- **Description:** Application that determines if a given number is a palindrome.
+- **Technologies used:** Java
+- **Repository link:** [Palindrome Checker](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/Capicua.java)
+
+#### 4. Currency Converter
+- **Description:** Currency converter application where you specify the type of currency to convert.
+- **Technologies used:** Java
+- **Repository link:** [Currency Converter](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/ConversorDivisas.java)
+
+#### 5. License Plate Generator
+- **Description:** Application that generates Spanish vehicle license plates.
+- **Technologies used:** Java
+- **Repository link:** [License Plate Generator](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/GeneradorMatriculas.java)
+
+#### 6. Dungeons & Dragons Game
+- **Description:** Application that simulates a typical Dungeons & Dragons game.
+- **Technologies used:** Java
+- **Repository link:** [Dungeons & Dragons](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/JuegoDD.java)
+
+#### 7. Reverse String
+- **Description:** Application that displays the given word in reverse.
+- **Technologies used:** Java
+- **Repository link:** [Reverse String](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/Leer_AlReves.java)
+
+#### 8. Mathematical Operations
+- **Description:** Application that shows the result of the specified mathematical operation.
+- **Technologies used:** Java
+- **Repository link:** [Mathematical Operations](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/Operacionesmatematicas.java)
+
+#### 9. Palindrome
+- **Description:** Application that determines if a word is a palindrome.
+- **Technologies used:** Java
+- **Repository link:** [Palindrome](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/144f0e68d4455ee58f4c3e6f89d1e0748e9dfc68/__pycache__/JAVA/PalabraPalindrome.java)
 
 ## Repository Structure
 
-- `README.md`: This file, containing the general description of the repository and links to individual projects.
-- `READMEENGLISH.md`: This file, containing the general description of the repository and links to individual projects in English
-- `/PYTHON`: Directory containing all the Python projects.
-- `/PYTHON/imagenes`: Directory containing all images.
-- `/PYTHON/pdfs`: Directory containing the PDFs generated when merging.
-- `/PYTHON/qr`: Directory containing the generated QR codes.
-- `/JS-TS`: Directory containing all the JavaScript & TypeScript projects
+- `README.md`: General description of the repository and links to individual projects.
+- `READMEENGLISH.md`: General description of the repository and links to individual projects in English.
+- `/PYTHON`: Directory containing all Python projects.
+  - `/PYTHON/imagenes`: Directory containing all images.
+  - `/PYTHON/pdfs`: Directory containing PDFs generated by merging them.
+  - `/PYTHON/qr`: Directory containing generated QR codes.
+- `/JS-TS`: Directory containing all JavaScript and TypeScript projects.
+- `/JAVA`: Directory containing all Java projects.
 
 ## How to Use This Repository
 
 1. **Clone the repository:**
    ```bash
-   git@github.com:oscar33213/PROYECTOS_PYTHON_PERSONALES.git
+   git clone git@github.com:oscar33213/PROYECTOS_PYTHON_PERSONALES.git
+
 ## Copyright
 
 © 2024 Oscar Hidalgo Lopez (github.com/oscar33213). All rights reserved.
