@@ -188,10 +188,12 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 ## Repository Structure
 
 - `README.md`: This file, containing the general description of the repository and links to individual projects.
+- `READMEENGLISH.md`: This file, containing the general description of the repository and links to individual projects in English
 - `/PYTHON`: Directory containing all the Python projects.
 - `/PYTHON/imagenes`: Directory containing all images.
 - `/PYTHON/pdfs`: Directory containing the PDFs generated when merging.
 - `/PYTHON/qr`: Directory containing the generated QR codes.
+- `/JS-TS`: Directory containing all the JavaScript & TypeScript projects
 
 ## How to Use This Repository
 
