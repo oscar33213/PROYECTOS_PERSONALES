@@ -226,7 +226,7 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 
 - **Description:** Application that simulates the home page of a Netflix-style streaming site.
 - **Technologies used:** HTML5, Typescript, and CSS
-- **Screenshot:** <https://raw.githubusercontent.com/oscar33213/PROYECTOS_PERSONALES/master/JS-TS/MFLIX/screenshot/mflix.png>
+- **Screenshot:** [Screenshot]<https://raw.githubusercontent.com/oscar33213/PROYECTOS_PERSONALES/master/JS-TS/MFLIX/screenshot/mflix.png>
 - **Repository link:** [MFLIX](https://github.com/oscar33213/PROYECTOS_PERSONALES/tree/57d2dc0a764aeb1ee60f32ae787b1ba6e47c7f35/JS-TS/MFLIX)
 
 ### Java Projects
