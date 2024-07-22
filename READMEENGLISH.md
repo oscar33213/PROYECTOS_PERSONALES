@@ -191,7 +191,7 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 ### 2. MFLIX Portal
 - **Description:** Application that simulates the home page of a Netflix-style streaming site.
 - **Technologies used:** HTML5, Typescript, and CSS
-- **Repository link:**
+- **Repository link:** [MFLIX](https://github.com/oscar33213/PROYECTOS_PERSONALES/tree/57d2dc0a764aeb1ee60f32ae787b1ba6e47c7f35/JS-TS/MFLIX)
 
 
 ### Java Projects
