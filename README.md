@@ -192,13 +192,19 @@
 - **Tecnologías usadas:** Python & flet
 - **Enlace al repositorio:** [Pokedex](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/c7f16595b65b495eccbfb389f2b930e0d47f3eac/PYTHON/pokedex.py)
 
-### Proyectos de JavaScript
+### Proyectos de JavaScript y Typescript
 
 
 ### 1. Aplicación de turnos
 - **Descripción:** Aplicación que simula una pantalla de llamamiento de turnos de atención al cliente.
 - **Tecnologías usadas:** HTML5, Typescript y CSS
 - **Enlace al repositorio:**  [Aplicación Turnos](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/b9968044db19d31ab3ad6f6c117e4b5fd0c5c619/JS-TS/APILCACI%C3%93N_TURNOS-TS/src/main.ts)
+
+
+### 2. Portal MFLIX
+- **Descripción:** Aplicación que simula el portal de inicio de una pagina de streaming estilo Netflix.
+- **Tecnologías usadas:** HTML5, Typescript y CSS
+- **Enlace al repositorio:** 
 
 ### Proyectos de Java
 

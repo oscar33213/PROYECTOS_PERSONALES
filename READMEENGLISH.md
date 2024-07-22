@@ -180,12 +180,19 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 - **Technologies used:** Python & flet
 - **Repository link:** [Pokedex](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/c7f16595b65b495eccbfb389f2b930e0d47f3eac/PYTHON/pokedex.py)
 
-### JavaScript Projects
+### JavaScript  & TypeScript Projects
 
 #### 1. Queue Application
 - **Description:** Application that simulates a customer service queue display.
 - **Technologies used:** HTML5, Typescript, and CSS
 - **Repository link:** [Queue Application](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/b9968044db19d31ab3ad6f6c117e4b5fd0c5c619/JS-TS/APILCACI%C3%93N_TURNOS-TS/src/main.ts)
+
+
+### 2. MFLIX Portal
+- **Description:** Application that simulates the home page of a Netflix-style streaming site.
+- **Technologies used:** HTML5, Typescript, and CSS
+- **Repository link:**
+
 
 ### Java Projects
 
