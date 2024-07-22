@@ -226,6 +226,7 @@
 
 - **Descripción:** Aplicación que simula el portal de inicio de una pagina de streaming estilo Netflix.
 - **Tecnologías usadas:** HTML5, Typescript y CSS
+- **Screenshot:**: 
 - **Enlace al repositorio:** [MFLIX](https://github.com/oscar33213/PROYECTOS_PERSONALES/tree/57d2dc0a764aeb1ee60f32ae787b1ba6e47c7f35/JS-TS/MFLIX)
 
 ### Proyectos de Java
