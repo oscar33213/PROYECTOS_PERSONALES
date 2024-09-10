@@ -214,13 +214,11 @@
 - **Tecnologías usadas:** Python & flet
 - **Enlace al repositorio:** [Pokedex](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/c7f16595b65b495eccbfb389f2b930e0d47f3eac/PYTHON/pokedex.py)
 
-
 ### 36. Lista correo
 
 - **Descripción:** Aplicación copia correo
 - **Tecnologías usadas:** Python
-- **Enlace al repositorio:** [Lista Correo](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/53572d9d145dbd550002a10b9504c2de712a2d47/PYTHON/repetircorreo.py)
-
+- **Enlace al repositorio:** [Lista Correo]
 
 ### Proyectos de JavaScript y Typescript
 
@@ -315,3 +313,6 @@
 ## Copyright
 
 © 2024 Oscar Hidalgo Llopez (github.com/oscar33213). Todos los derechos reservados.
+
+
+[def]: https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/53572d9d145dbd550002a10b9504c2de712a2d47/PYTHON/repetircorreo.py
