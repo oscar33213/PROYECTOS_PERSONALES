@@ -214,6 +214,12 @@
 - **Tecnologías usadas:** Python & flet
 - **Enlace al repositorio:** [Pokedex](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/c7f16595b65b495eccbfb389f2b930e0d47f3eac/PYTHON/pokedex.py)
 
+
+### 36. Pokedex
+
+- **Descripción:** Aplicación copia correo
+- **Tecnologías usadas:** Python
+
 ### Proyectos de JavaScript y Typescript
 
 ### 1. Aplicación de turnos
