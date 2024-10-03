@@ -220,6 +220,18 @@
 - **Tecnologías usadas:** Python
 - **Enlace al repositorio:** [Lista Correo]
 
+### 36. Piedra, Papel, tijera
+
+- **Descripción:** Juego basico de piedra, papel, tijera contra la maquina
+- **Tecnologías usadas:** Python
+- 
+
+### 36. Piedra, Papel, Tijera con otro jugador
+
+- **Descripción:** Juego basico de piedra, papel, tijera contra otro jugador
+- **Tecnologías usadas:** Python
+- 
+
 ### Proyectos de JavaScript y Typescript
 
 ### 1. Aplicación de turnos
