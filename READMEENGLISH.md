@@ -214,6 +214,18 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 - **Technologies used:** Python & flet
 - **Repository link:** [Pokedex](https://github.com/oscar33213/PROYECTOS_PYTHON_PERSONALES/blob/c7f16595b65b495eccbfb389f2b930e0d47f3eac/PYTHON/pokedex.py)
 
+### 36. Rock, Paper, Scissors
+
+- **Description:** Basic rock, paper, scissors game against the machine.
+- **Technologies used:** Python
+- **Repository link:** [Rock, Paper, Scissors](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/f40a797fbc936e732e1e98864167c891c16d99d4/PYTHON/rockpappersiccors.py)
+
+### 37. Rock, Paper, Scissors with another player
+
+- **Description:** Basic rock, paper, scissors game against another player.
+- **Technologies used:** Python
+- **Repository link:** [Rock, Paper, Scissors 2 Players](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/f40a797fbc936e732e1e98864167c891c16d99d4/PYTHON/piedrapapeltijera2players.py)
+
 ### JavaScript  & TypeScript Projects
 
 #### 1. Queue Application

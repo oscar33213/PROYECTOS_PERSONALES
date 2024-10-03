@@ -224,13 +224,13 @@
 
 - **Descripción:** Juego basico de piedra, papel, tijera contra la maquina
 - **Tecnologías usadas:** Python
-- 
+- **Enlace al repositorio:** [Piedra, Papel, Tijera](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/f40a797fbc936e732e1e98864167c891c16d99d4/PYTHON/rockpappersiccors.py)
 
-### 36. Piedra, Papel, Tijera con otro jugador
+### 37. Piedra, Papel, Tijera con otro jugador
 
 - **Descripción:** Juego basico de piedra, papel, tijera contra otro jugador
 - **Tecnologías usadas:** Python
-- 
+- **Enlace al repositorio:** [Piedra, Papel, Tijera 2 Jugadores](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/f40a797fbc936e732e1e98864167c891c16d99d4/PYTHON/piedrapapeltijera2players.py)
 
 ### Proyectos de JavaScript y Typescript
 
