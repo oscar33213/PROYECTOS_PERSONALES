@@ -1,38 +1,40 @@
 import random
 import string
 
-def generate_password(length=12, use_uppercase=True, use_lowercase=True, use_digits=True, use_special=True):
+def generar_contraseña(longitud=12, usar_mayusculas=True, usar_minusculas=True, usar_digitos=True, usar_especiales=True):
 
-    chars = ""
-    if use_uppercase:
-        chars += string.ascii_uppercase
-    if use_lowercase:
-        chars += string.ascii_lowercase
-    if use_digits:
-        chars += string.digits
-    if use_special:
-        chars += string.punctuation
+    caracteres = ""
+    if usar_mayusculas:
+        caracteres += string.ascii_uppercase
+    if usar_minusculas:
+        caracteres += string.ascii_lowercase
+    if usar_digitos:
+        caracteres += string.digits
+    if usar_especiales:
+        caracteres += string.punctuation
     
+    # Verificación temporal para depurar
+    print(f"Caracteres seleccionados: {caracteres}")
     
-    if not chars:
-        raise ValueError("At least one character type must be selected")
+    # Verificar que se haya seleccionado al menos un tipo de carácter
+    if len(caracteres) == 0:
+        raise ValueError("Debe seleccionarse al menos un tipo de carácter")
     
-    # Generate the password
-    password = ''.join(random.choice(chars) for _ in range(length))
-    return password
+    # Generar la contraseña
+    contraseña = ''.join(random.choice(caracteres) for _ in range(longitud))
+    return contraseña
 
 def main():
     
-    length = int(input("Enter the password length: "))
+    longitud = int(input("Indica la longitud de la contraseña: "))
     
-    use_uppercase = input("Include uppercase letters? (yes/no): ").lower() == 'yes'
-    use_lowercase = input("Include lowercase letters? (yes/no): ").lower() == 'yes'
-    use_digits = input("Include digits? (yes/no): ").lower() == 'yes'
-    use_special = input("Include special characters? (yes/no): ").lower() == 'yes'
+    usar_mayusculas = input("¿Incluir mayúsculas? (si/no): ").lower() == 'si'
+    usar_minusculas = input("¿Incluir minúsculas? (si/no): ").lower() == 'si'
+    usar_digitos = input("¿Incluir números? (si/no): ").lower() == 'si'
+    usar_especiales = input("¿Incluir caracteres especiales? (si/no): ").lower() == 'si'
     
-    
-    password = generate_password(length, use_uppercase, use_lowercase, use_digits, use_special)
-    print(f"Generated password: {password}")
+    contraseña = generar_contraseña(longitud, usar_mayusculas, usar_minusculas, usar_digitos, usar_especiales)
+    print(f"Contraseña generada: {contraseña}")
 
 if __name__ == "__main__":
     main()
