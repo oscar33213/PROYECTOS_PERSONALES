@@ -232,6 +232,12 @@
 - **Tecnologías usadas:** Python
 - **Enlace al repositorio:** [Piedra, Papel, Tijera 2 Jugadores](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/f40a797fbc936e732e1e98864167c891c16d99d4/PYTHON/piedrapapeltijera2players.py)
 
+### 38. Aplicación caja de Supermercado
+
+- **Descripción:** Aplicación que simula las funciones de una caja de Supermercado
+- **Tecnologías usadas:** Python y Tkinter
+- **Enlace al repositorio:** 
+
 ### Proyectos de JavaScript y Typescript
 
 ### 1. Aplicación de turnos
