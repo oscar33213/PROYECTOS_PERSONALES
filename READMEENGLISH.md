@@ -226,6 +226,12 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 - **Technologies used:** Python
 - **Repository link:** [Rock, Paper, Scissors 2 Players](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/f40a797fbc936e732e1e98864167c891c16d99d4/PYTHON/piedrapapeltijera2players.py)
 
+### 38. Supermarket Checkout Application
+
+- **Description:** Application that simulates the functions of a supermarket checkout
+- **Technologies used:** Python and Tkinter
+- **Repository link:** [Supermarket Checkout](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/55b3fb03a9387bc8a1fbee440dca4cc2130fc8de/PYTHON/cajasuper.py)
+
 ### JavaScript  & TypeScript Projects
 
 #### 1. Queue Application

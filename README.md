@@ -236,7 +236,7 @@
 
 - **Descripción:** Aplicación que simula las funciones de una caja de Supermercado
 - **Tecnologías usadas:** Python y Tkinter
-- **Enlace al repositorio:** 
+- **Enlace al repositorio:** [Caja Supermercado](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/55b3fb03a9387bc8a1fbee440dca4cc2130fc8de/PYTHON/cajasuper.py)
 
 ### Proyectos de JavaScript y Typescript
 
