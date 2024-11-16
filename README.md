@@ -253,6 +253,12 @@
 - **Captura de Pantalla:**: <https://tinyurl.com/25nr6oc3>
 - **Enlace al repositorio:** [MFLIX](https://github.com/oscar33213/PROYECTOS_PERSONALES/tree/57d2dc0a764aeb1ee60f32ae787b1ba6e47c7f35/JS-TS/MFLIX)
 
+### 3. Validador de D.N.I
+
+- **Descripción:** Aplicación que valida un DNI existente.
+- **Tecnologías usadas:** JavaScript
+- **Enlace al repositorio:**  
+
 ### Proyectos de Java
 
 ### 1. Aplicación Año Bisiesto
