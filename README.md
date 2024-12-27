@@ -238,6 +238,18 @@
 - **Tecnologías usadas:** Python y Tkinter
 - **Enlace al repositorio:** [Caja Supermercado](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/55b3fb03a9387bc8a1fbee440dca4cc2130fc8de/PYTHON/cajasuper.py)
 
+### 39. Numero Primo
+
+- **Descripción:** Aplicación que indica si un numero es Primo
+- **Tecnologías usadas:** Python
+- **Enlace al repositorio:**
+
+### 40. MCM (Minimo Común Multiplo)
+
+- **Descripción:** Aplicación que saca el MCM de 2 numeros
+- **Tecnologías usadas:** Python 
+- **Enlace al repositorio:**
+
 ### Proyectos de JavaScript y Typescript
 
 ### 1. Aplicación de turnos
