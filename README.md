@@ -242,13 +242,13 @@
 
 - **Descripción:** Aplicación que indica si un numero es Primo
 - **Tecnologías usadas:** Python
-- **Enlace al repositorio:**
+- **Enlace al repositorio:** [Numero Primo](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/614476ccb62d0fe8c9bc7045f50f131729408b5b/PYTHON/NumeroPrimo.py)
 
 ### 40. MCM (Minimo Común Multiplo)
 
 - **Descripción:** Aplicación que saca el MCM de 2 numeros
 - **Tecnologías usadas:** Python 
-- **Enlace al repositorio:**
+- **Enlace al repositorio:** [MCM](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/614476ccb62d0fe8c9bc7045f50f131729408b5b/PYTHON/MCM.py)
 
 ### Proyectos de JavaScript y Typescript
 

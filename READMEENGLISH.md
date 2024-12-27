@@ -232,6 +232,18 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 - **Technologies used:** Python and Tkinter
 - **Repository link:** [Supermarket Checkout](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/55b3fb03a9387bc8a1fbee440dca4cc2130fc8de/PYTHON/cajasuper.py)
 
+### 39. Prime Number
+
+- **Description:** Application that determines if a number is prime.
+- **Technologies used:** Python
+- **Repository link:** [Prime Number](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/614476ccb62d0fe8c9bc7045f50f131729408b5b/PYTHON/NumeroPrimo.py)
+
+### 40. LCM (Least Common Multiple)
+
+- **Description:** Application that calculates the LCM of 2 numbers.
+- **Technologies used:** Python
+- **Repository link:** [LCM](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/614476ccb62d0fe8c9bc7045f50f131729408b5b/PYTHON/MCM.py)
+
 ### JavaScript  & TypeScript Projects
 
 #### 1. Queue Application
