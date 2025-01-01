@@ -280,6 +280,18 @@
 - **Tecnologías usadas:** Python, BBDD Sqlite3 y Tkinter
 - **Enlace al repositorio:**
 
+### 46. Letra DNI
+
+- **Descripción:** Aplicación que saca la letra de un DNI introducido
+- **Tecnologías usadas:** Python
+- **Enlace al repositorio:**
+
+### 47. Generador de Matriculas
+
+- **Descripción:** Aplicación que genera una lista de matricuklas españolas aleatorias
+- **Tecnologías usadas:** Python
+- **Enlace al repositorio:**
+
 ### Proyectos de JavaScript y Typescript
 
 ### 1. Aplicación de turnos
