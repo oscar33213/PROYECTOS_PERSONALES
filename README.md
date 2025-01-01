@@ -247,8 +247,38 @@
 ### 40. MCM (Minimo Común Multiplo)
 
 - **Descripción:** Aplicación que saca el MCM de 2 numeros
-- **Tecnologías usadas:** Python 
+- **Tecnologías usadas:** Python
 - **Enlace al repositorio:** [MCM](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/614476ccb62d0fe8c9bc7045f50f131729408b5b/PYTHON/MCM.py)
+
+### 41. Fibonacci
+
+- **Descripción:** Aplicación que saca la Sucesión de Fibonacci
+- **Tecnologías usadas:** Python
+- **Enlace al repositorio:**
+
+### 42. Lanzamiento de Dados
+
+- **Descripción:** Aplicación que suma el total de los resultados de lanzar 1 dado X veces
+- **Tecnologías usadas:** Python
+- **Enlace al repositorio:**
+
+### 43. Calculo de Notas
+
+- **Descripción:** Aplicación que saca el promedio de Notas de un curso, la nota mas alta, la mas baja e indica si el alumno a superado el curso
+- **Tecnologías usadas:** Python y Tkinter
+- **Enlace al repositorio:**
+
+### 44. Registro trabajadores y Calculo Nomina
+
+- **Descripción:** Aplicación que registra la hora de entrada y salida de un tarbajador y calcula su nomina
+- **Tecnologías usadas:** Python, BBDD Sqlite3 y Tkinter
+- **Enlace al repositorio:**
+
+### 45. Registro BBDD
+
+- **Descripción:** Aplicación que registra un usuario en una BBDD
+- **Tecnologías usadas:** Python, BBDD Sqlite3 y Tkinter
+- **Enlace al repositorio:**
 
 ### Proyectos de JavaScript y Typescript
 
