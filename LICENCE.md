@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) [2024] [Óscar Hidalgo Llopez]
+Copyright (c) [2025] [Óscar Hidalgo Llopez]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
