@@ -254,49 +254,43 @@
 
 - **Descripción:** Aplicación que saca la Sucesión de Fibonacci
 - **Tecnologías usadas:** Python
-- **Enlace al repositorio:**
+- **Enlace al repositorio:** [Fibonnacci](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/a834ec6155233dedb907a24d352968d1592c9325/PYTHON/Fibonacci.py)
 
 ### 42. Lanzamiento de Dados
 
 - **Descripción:** Aplicación que suma el total de los resultados de lanzar 1 dado X veces
 - **Tecnologías usadas:** Python
-- **Enlace al repositorio:**
+- **Enlace al repositorio:**[Dados](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/a834ec6155233dedb907a24d352968d1592c9325/PYTHON/Dados.py)
 
 ### 43. Calculo de Notas
 
 - **Descripción:** Aplicación que saca el promedio de Notas de un curso, la nota mas alta, la mas baja e indica si el alumno a superado el curso
 - **Tecnologías usadas:** Python y Tkinter
-- **Enlace al repositorio:**
+- **Enlace al repositorio:**[Notas](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/a834ec6155233dedb907a24d352968d1592c9325/PYTHON/NotasCurso.py)
 
 ### 44. Registro trabajadores y Calculo Nomina
 
 - **Descripción:** Aplicación que registra la hora de entrada y salida de un tarbajador y calcula su nomina
 - **Tecnologías usadas:** Python, BBDD Sqlite3 y Tkinter
-- **Enlace al repositorio:**
+- **Enlace al repositorio:**[Registro Nomina](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/a834ec6155233dedb907a24d352968d1592c9325/PYTHON/RegistroTrabajo.py)
 
 ### 45. Registro BBDD
 
 - **Descripción:** Aplicación que registra un usuario en una BBDD
 - **Tecnologías usadas:** Python, BBDD Sqlite3 y Tkinter
-- **Enlace al repositorio:**
+- **Enlace al repositorio:**[BBDD](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/a834ec6155233dedb907a24d352968d1592c9325/PYTHON/RegistroBBDD.py)
 
-### 46. Letra DNI
-
-- **Descripción:** Aplicación que saca la letra de un DNI introducido
-- **Tecnologías usadas:** Python
-- **Enlace al repositorio:**
-
-### 47. Generador de Matriculas
+### 46. Generador de Matriculas
 
 - **Descripción:** Aplicación que genera una lista de matricuklas españolas aleatorias
 - **Tecnologías usadas:** Python
-- **Enlace al repositorio:**
+- **Enlace al repositorio:**[Matriculas](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/a834ec6155233dedb907a24d352968d1592c9325/PYTHON/Matriculas.py)
 
-### 48. Crawler + Creador de documentos
+### 47. Crawler + Creador de documentos
 
 - **Descripción:** Aplicación crawler que extrae el HTML de una web indicada, divide los bloques ***span*** y crea un directorio con un fichero dond eesta todo el contenido extraido
 - **Tecnologías usadas:** Python, Crawler, Beautiful Soup
-- **Enlace al repositorio:**
+- **Enlace al repositorio:**[Crawler](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/a834ec6155233dedb907a24d352968d1592c9325/PYTHON/UsoCrawler.py)
 
 ### Proyectos de JavaScript y Typescript
 

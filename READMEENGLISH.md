@@ -246,51 +246,45 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 
 ### 41. Fibonacci
 
-- **Description:** Python application that generates the Fibonacci sequence, showcasing algorithmic logic and iterative computation  
+- **Description:** Application that generates the Fibonacci Sequence  
 - **Technologies used:** Python  
-- **Repository link:**  
+- **Repository link:** [Fibonacci](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/a834ec6155233dedb907a24d352968d1592c9325/PYTHON/Fibonacci.py)  
 
 ### 42. Dice Roll
 
-- **Description:** Simulation tool that rolls a die multiple times, calculates the total sum, and demonstrates randomization in Python  
+- **Description:** Application that simulates rolling a die X times and calculates the total sum of the results  
 - **Technologies used:** Python  
-- **Repository link:**  
+- **Repository link:** [Dice](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/a834ec6155233dedb907a24d352968d1592c9325/PYTHON/Dados.py)  
 
 ### 43. Grade Calculator
 
-- **Description:** Application that computes the average grade of a course, identifies the highest and lowest scores, and determines whether the student has passed  
+- **Description:** Application that computes the average grade of a course, identifies the highest and lowest grades, and indicates whether the student has passed  
 - **Technologies used:** Python, Tkinter  
-- **Repository link:**  
+- **Repository link:** [Grades](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/a834ec6155233dedb907a24d352968d1592c9325/PYTHON/NotasCurso.py)  
 
 ### 44. Employee Attendance & Payroll System
 
-- **Description:** Application that records employee check-in and check-out times, then automates payroll calculation based on logged hours  
+- **Description:** Application that records employee check-in and check-out times and automatically calculates payroll  
 - **Technologies used:** Python, SQLite3 Database, Tkinter  
-- **Repository link:**  
+- **Repository link:** [Payroll Register](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/a834ec6155233dedb907a24d352968d1592c9325/PYTHON/RegistroTrabajo.py)  
 
 ### 45. User Database Registration
 
-- **Description:** Application that registers new users into a database, providing a simple interface for data entry and storage  
+- **Description:** Application that registers a user into a database through a simple interface  
 - **Technologies used:** Python, SQLite3 Database, Tkinter  
-- **Repository link:**  
+- **Repository link:** [Database](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/a834ec6155233dedb907a24d352968d1592c9325/PYTHON/RegistroBBDD.py)  
 
-### 46. DNI Letter Calculator
+### 46. License Plate Generator
 
-- **Description:** Utility that computes the correct letter for a Spanish DNI number, ensuring accurate identity validation  
+- **Description:** Application that generates a list of random Spanish license plates  
 - **Technologies used:** Python  
-- **Repository link:**  
+- **Repository link:** [License Plates](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/a834ec6155233dedb907a24d352968d1592c9325/PYTHON/Matriculas.py)  
 
-### 47. License Plate Generator
+### 47. Crawler + Document Creator
 
-- **Description:** Application that generates random Spanish license plates, useful for testing, simulations, or demonstrations of string manipulation  
-- **Technologies used:** Python  
-- **Repository link:**  
-
-### 48. Crawler + Document Creator
-
-- **Description:** A Python-based crawler application that automatically extracts HTML from a specified website, identifies and organizes ***span*** blocks, and generates a directory containing a new file with all the extracted content each time it runs. This project demonstrates automation in web scraping and structured content storage.  
+- **Description:** Crawler application that extracts the HTML from a specified website, splits the ***span*** blocks, and creates a directory with a file containing all the extracted content  
 - **Technologies used:** Python, Web Crawling, Beautiful Soup  
-- **Repository link:**
+- **Repository link:** [Crawler](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/a834ec6155233dedb907a24d352968d1592c9325/PYTHON/UsoCrawler.py)  
 
 ### JavaScript  & TypeScript Projects
 
