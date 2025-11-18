@@ -292,6 +292,12 @@
 - **Tecnologías usadas:** Python
 - **Enlace al repositorio:**
 
+### 48. Crawler + Creador de documentos
+
+- **Descripción:** Aplicación crawler que extrae el HTML de una web indicada, divide los bloques ***span*** y crea un directorio con un fichero dond eesta todo el contenido extraido
+- **Tecnologías usadas:** Python, Crawler, Beautiful Soup
+- **Enlace al repositorio:**
+
 ### Proyectos de JavaScript y Typescript
 
 ### 1. Aplicación de turnos

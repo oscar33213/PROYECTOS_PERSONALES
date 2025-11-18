@@ -244,6 +244,54 @@ Welcome to my repository of personal projects! This repository acts as a portfol
 - **Technologies used:** Python
 - **Repository link:** [LCM](https://github.com/oscar33213/PROYECTOS_PERSONALES/blob/614476ccb62d0fe8c9bc7045f50f131729408b5b/PYTHON/MCM.py)
 
+### 41. Fibonacci
+
+- **Description:** Python application that generates the Fibonacci sequence, showcasing algorithmic logic and iterative computation  
+- **Technologies used:** Python  
+- **Repository link:**  
+
+### 42. Dice Roll
+
+- **Description:** Simulation tool that rolls a die multiple times, calculates the total sum, and demonstrates randomization in Python  
+- **Technologies used:** Python  
+- **Repository link:**  
+
+### 43. Grade Calculator
+
+- **Description:** Application that computes the average grade of a course, identifies the highest and lowest scores, and determines whether the student has passed  
+- **Technologies used:** Python, Tkinter  
+- **Repository link:**  
+
+### 44. Employee Attendance & Payroll System
+
+- **Description:** Application that records employee check-in and check-out times, then automates payroll calculation based on logged hours  
+- **Technologies used:** Python, SQLite3 Database, Tkinter  
+- **Repository link:**  
+
+### 45. User Database Registration
+
+- **Description:** Application that registers new users into a database, providing a simple interface for data entry and storage  
+- **Technologies used:** Python, SQLite3 Database, Tkinter  
+- **Repository link:**  
+
+### 46. DNI Letter Calculator
+
+- **Description:** Utility that computes the correct letter for a Spanish DNI number, ensuring accurate identity validation  
+- **Technologies used:** Python  
+- **Repository link:**  
+
+### 47. License Plate Generator
+
+- **Description:** Application that generates random Spanish license plates, useful for testing, simulations, or demonstrations of string manipulation  
+- **Technologies used:** Python  
+- **Repository link:**  
+
+### 48. Crawler + Document Creator
+
+- **Description:** A Python-based crawler application that automatically extracts HTML from a specified website, identifies and organizes ***span*** blocks, and generates a directory containing a new file with all the extracted content each time it runs. This project demonstrates automation in web scraping and structured content storage.  
+- **Technologies used:** Python, Web Crawling, Beautiful Soup  
+- **Repository link:**
+
 ### JavaScript  & TypeScript Projects
 
 #### 1. Queue Application
